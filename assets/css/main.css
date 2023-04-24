@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.btn {
+  border-color: white;
+  font-family: "Instrument Serif", serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.navbar-brand {
+  color: white;
+  font-weight: 400;
+  font-family: "Instrument Serif", serif;
+  font-size: 1.8rem;
+}
+
+.nav-link {
+  color: white;
+  font-weight: 400;
+  font-family: "Instrument Serif", serif;
+  font-size: 1.2rem;
+}
+
+.dropdown-item {
+  font-weight: 400;
+  font-family: "Instrument Serif", serif;
+  font-size: 1.3rem;
+  opacity: 85%;
+}
+
+h1 {
+  font-weight: 400;
+  font-family: "Instrument Serif", serif;
+  font-size: 2.5rem;
+  text-align: center;
+  margin-top: 20px;
+}
+
+h6 {
+  text-align: center;
+  font-weight: 400;
+  font-family: "Instrument Serif", serif;
+}
+
+h3 {
+  text-align: center;
+  font-weight: 400;
+  font-family: "Instrument Serif", serif;
+}
+
+hr {
+  width: 98%;
+  margin-left: 1%;
+}
+
+.main__noticia {
+  width: 70%;
+  height: 820px;
+  position: absolute;
+  margin-left: 15%;
+}
+
+.main__noticia__img {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.main__noticia__img__text {
+  font-weight: 700;
+  font-family: "Instrument Serif", serif;
+  margin-top: 2px;
+}
+
+.main__noticia__title {
+  text-align: center;
+  font-weight: 700;
+  font-family: "Instrument Serif", serif;
+}
+
+.main__noticia__title h2 {
+  font-size: 2.9rem;
+}
+
+.main__noticia__subtitle {
+  font-weight: 400;
+  font-family: "Instrument Serif", serif;
+  font-size: 1.5rem;
+}
+
+.aside__destacados {
+  width: 13%;
+  height: 820px;
+  float: right;
+  margin-right: 21px !important;
+  z-index: 1;
+}
+
+.aside_deporte {
+  width: 13%;
+  height: 820px;
+  margin-left: 1%;
+  float: left;
+  z-index: 1;
+}
+
+.aside__destacados__text {
+  font-weight: 700;
+  font-family: "Instrument Serif", serif;
+}
+
+.footer__div__text {
+  color: white;
+  text-align: center;
+  font-weight: 400;
+  font-family: "Instrument Serif", serif;
+  font-size: 1.4rem;
+}
+
+@media (min-width: 320px) {
+  .footer__div {
+    width: 100%;
+    height: 60px;
+    margin-top: 954%;
+  }
+}
+@media (min-width: 576px) {
+  .footer__div {
+    width: 100%;
+    height: 60px;
+    margin-top: 295%;
+  }
+}
+@media (min-width: 768px) {
+  .footer__div {
+    width: 100%;
+    height: 60px;
+    margin-top: 190%;
+  }
+}
+@media (min-width: 992px) {
+  .footer__div {
+    width: 100%;
+    height: 60px;
+    margin-top: 143%;
+  }
+}
+@media (min-width: 1200px) {
+  .footer__div {
+    width: 100%;
+    height: 60px;
+    margin-top: 104%;
+  }
+}
+@media (min-width: 1400px) {
+  .footer__div {
+    width: 100%;
+    height: 60px;
+    margin-top: 83%;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */
